@@ -1,0 +1,4 @@
+1,Milky bar,10,2
+2,lotte choco pie,23,4
+3,munch,20,15
+4,cake,300,14
